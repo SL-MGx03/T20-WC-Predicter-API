@@ -1,7 +1,6 @@
 fastapi==0.115.6
 uvicorn[standard]==0.30.6
-torch==2.10.0
+torch==2.5.1
 numpy==1.26.4
-pandas==2.2.2
 scikit-learn==1.5.1
 joblib==1.4.2
